@@ -1,0 +1,24 @@
+if game.PlaceId == 10449761463 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hellothegreat/Balakb/refs/heads/main/TSB%20hub?token=GHSAT0AAAAAAC2LQQOTTONJ5PUTMNJJPOBOZZ4WGMA"))()
+end
+if game.PlaceId == 12360882630 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hellothegreat/Balakb/refs/heads/main/TSB%20hub?token=GHSAT0AAAAAAC2LQQOTTONJ5PUTMNJJPOBOZZ4WGMA"))()
+end
+if game.PlaceId == 9391468976 then
+local fakeban = "Ayo Which Game you are trying on?!! It is for The Strongest Battlegrounds!!" game.Players.LocalPlayer:Kick(fakeban) 
+end
+if game.PlaceId == 17129858194 then
+local fakeban = "Ayo Which Game you are trying on?!! It is for The Strongest Battlegrounds!!" game.Players.LocalPlayer:Kick(fakeban) 
+end
+if game.PlaceId == 13447209899 then
+local fakeban = "Ayo Which Game you are trying on?!! It is for The Strongest Battlegrounds!!" game.Players.LocalPlayer:Kick(fakeban) 
+end
+if game.PlaceId == 4483381587 then
+local fakeban = "Ayo Which Game you are trying on?!! It is for The Strongest Battlegrounds!!" game.Players.LocalPlayer:Kick(fakeban) 
+end
+if game.PlaceId == 11815767793 then
+local fakeban = "Ayo Which Game you are trying on?!! It is for The Strongest Battlegrounds!!" game.Players.LocalPlayer:Kick(fakeban) 
+end
+if game.PlaceId == 16112501126 then
+local fakeban = "Ayo Which Game you are trying on?!! It is for The Strongest Battlegrounds!!" game.Players.LocalPlayer:Kick(fakeban) 
+end
